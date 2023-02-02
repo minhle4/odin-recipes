@@ -1,0 +1,15 @@
+* {
+    font-style: "Brush Script MT", "Lucida Handwriting", Cursive;
+}
+
+.main-section{
+    background-color: rgb(61, 58, 58);
+    font-size: 50px;
+    color: rgb(255,255,255);
+}
+
+.list-items{
+    font-size: 25px;
+    background-color: rgb(111, 218, 84);
+    color: rgb(167, 5, 5);
+}
